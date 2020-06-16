@@ -1,5 +1,5 @@
 <?php
 
-print 'buylfgxctuuuzzkkshfhello worldrd';
+print 'buyclfgxctuuuzzkkshfhello worldrd';
 
 ?>
